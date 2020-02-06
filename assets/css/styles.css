@@ -37,3 +37,24 @@ img {
 /* End of CSS Reset */
 
 /* Only use classes. IDs are used in combination with JavaScript */
+body {
+  background-color: #46423f;
+}
+
+.fas {
+  font-size: 50px;
+  color: #f9f9f9;
+}
+
+.fas:hover {
+  padding-bottom: 5px;
+  border-bottom: 8px solid #f9f9f9;
+  }
+
+/* Colors used in project:
+
+Body: #46423F (black)
+Navigation blocks: #575350 (grey)
+Cyclehublogo background, text & menu icons: #f9f9f9 (white)
+Block [contact.php]: #EF884C (orange)
+*/
